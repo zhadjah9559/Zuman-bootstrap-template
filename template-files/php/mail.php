@@ -21,7 +21,7 @@
         $recipient = "Nicholas1122yahoo.com";
 
         // Set the email subject.
-        $subject = "New Message from niz by - $name";
+        $subject = "New Message from Website by - $name";
 
         // Build the email content.
         $email_content = "Name: $name\n";
